@@ -3,6 +3,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello world\n");
-	printf("lunch time\n");
+	printf("hello world\n"); //"hello world" 문자열 출력
+	printf("lunch time\n");  //"lunch time" 문자열 출력
 }
