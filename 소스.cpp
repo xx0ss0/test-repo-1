@@ -7,8 +7,8 @@ using namespace std;
 
 void main() {
 	string greeting = "hello world\n";
-	string time = "lunch time\n";
+	string time = "It's lunch time now.\n";
 	printf("\n");            //줄바꿈     
 	cout << greeting; //"hello world" 문자열 출력
-	cout << time;  //"lunch time" 문자열 출력
+	cout << time;  //"It's lunch time now." 문자열 출력
 }
