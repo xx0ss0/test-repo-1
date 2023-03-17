@@ -1,2 +1,2 @@
 # test-repo
-Test Repository
+Test Repository for learning open source.
