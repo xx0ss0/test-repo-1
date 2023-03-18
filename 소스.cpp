@@ -6,7 +6,7 @@
 using namespace std;
 
 void main() {
-  string start = "--Start--\n";           //start 문자열 변수에 "--Start--" 할당 //서브수정
+  string start = "--Start--\n";           //start 문자열 변수에 "--Start--" 할당
 	string greeting = "Hello world!\n";     //greeting 문자열 변수에 "Hello world!" 할당
 	string time = "It's lunch time now.\n"; //time 문자열 변수에 "It's lunch time now." 할당
 	cout << start << greeting << time;      //"--Start--", "Hello world!", "It's lunch time now." 문자열 출력
