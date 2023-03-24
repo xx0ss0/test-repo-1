@@ -12,4 +12,5 @@ void main() {
 	cout << start << greeting << time;      //"--Start--", "Hello world!", "It's lunch time now." 문자열 출력
 	
 	cout<< "It's 2 o'clock now";
+	cout<< "It's... show time."<< endl;
 }
